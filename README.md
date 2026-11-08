@@ -92,6 +92,7 @@ If it isn't logged, it didn't happen. Standards and primitives for tamper-eviden
 - [Sigstore](https://www.sigstore.dev/) — Keyless signing, certificate transparency, and timestamping for software artifacts.
 - [The Update Framework (TUF)](https://theupdateframework.io/) — Specification for securing software update systems against repository compromise.
 - [OpenTelemetry](https://opentelemetry.io/) — Vendor-neutral observability (traces, metrics, logs): the backbone of agent audit trails.
+- [Verdict Ledger](https://github.com/huv0310-arch/verdict-ledger) — Append-only signed ledger for AI decisions with challenge receipts: decisions recorded once, signed, and disputable without rewriting history.
 
 ### 🌱 From my 500-repo build
 
